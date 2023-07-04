@@ -1,6 +1,6 @@
 import React from 'react'
 import { Carousel } from "react-responsive-carousel";
-import "react-responsive-carousel/lib/styles/carousel.min.css";
+import "../styles/carrousel.scss";
 import img from "../assets/3.jpg";
 import img1 from "../assets/4.jpg";
 const Services = () => {
